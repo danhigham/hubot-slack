@@ -67,6 +67,6 @@
     "test": "mocha --compilers coffee:coffee-script/register --reporter spec"
   },
   "dependencies": {
-    "slack-client": "yahsan2/node-slack-client"
+    "slack-client": "yahsan2/node-slack-client#add_file_and_comment_api"
   }
 }
